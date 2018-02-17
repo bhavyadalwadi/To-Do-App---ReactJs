@@ -1,0 +1,53 @@
+*{
+    font-family: 'Dhurjati', sans-serif;
+    font-size: 1.05em;
+}
+.header{
+    font-size: 1.7em;
+}
+.content{
+    list-style-type: none;
+    text-decoration: none;
+    font-weight: 400;
+}
+.marginIcons{
+    position: absolute;
+    right: 10px;
+    top: 0px;
+}
+.ulWidth{
+    width: 325px;
+    position: relative;
+}
+li{
+    display: flex !important;
+    justify-content: space-between;
+    align-items: center;
+    position: relative;
+    padding: 5px;
+    border: 1px solid grey;
+    border-radius: 20px;
+    background-color:#343a40;
+    color: white;
+}
+/*starting state of animation*/
+
+.fade-enter{
+    right: 100px;
+}
+
+/*end state of animation*/
+.fade-enter-active{
+    right: 0px;
+    transition: .5s ease-in all;
+
+}
+/*.fade-leave{
+    right: 0px;
+}*/
+.fade-leave-active{
+    display: none;
+    transition: .2s ease-out all;
+    opacity: 0;
+
+}
