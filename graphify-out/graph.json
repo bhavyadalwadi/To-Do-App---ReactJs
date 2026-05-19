@@ -1,0 +1,678 @@
+{
+  "directed": false,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "label": "package.json",
+      "file_type": "code",
+      "source_file": "package.json",
+      "source_location": "L1",
+      "id": "package_json",
+      "community": 4,
+      "norm_label": "package.json"
+    },
+    {
+      "label": "name",
+      "file_type": "code",
+      "source_file": "package.json",
+      "source_location": "L2",
+      "id": "to_do_app_reactjs_package_name",
+      "community": 4,
+      "norm_label": "name"
+    },
+    {
+      "label": "version",
+      "file_type": "code",
+      "source_file": "package.json",
+      "source_location": "L3",
+      "id": "to_do_app_reactjs_package_version",
+      "community": 4,
+      "norm_label": "version"
+    },
+    {
+      "label": "private",
+      "file_type": "code",
+      "source_file": "package.json",
+      "source_location": "L4",
+      "id": "to_do_app_reactjs_package_private",
+      "community": 4,
+      "norm_label": "private"
+    },
+    {
+      "label": "dependencies",
+      "file_type": "code",
+      "source_file": "package.json",
+      "source_location": "L5",
+      "id": "to_do_app_reactjs_package_dependencies",
+      "community": 2,
+      "norm_label": "dependencies"
+    },
+    {
+      "label": "react",
+      "file_type": "code",
+      "source_file": "package.json",
+      "source_location": "L6",
+      "id": "to_do_app_reactjs_package_dependencies_react",
+      "community": 2,
+      "norm_label": "react"
+    },
+    {
+      "label": "react-dom",
+      "file_type": "code",
+      "source_file": "package.json",
+      "source_location": "L7",
+      "id": "to_do_app_reactjs_package_dependencies_react_dom",
+      "community": 2,
+      "norm_label": "react-dom"
+    },
+    {
+      "label": "react-icons",
+      "file_type": "code",
+      "source_file": "package.json",
+      "source_location": "L8",
+      "id": "to_do_app_reactjs_package_dependencies_react_icons",
+      "community": 2,
+      "norm_label": "react-icons"
+    },
+    {
+      "label": "react-scripts",
+      "file_type": "code",
+      "source_file": "package.json",
+      "source_location": "L9",
+      "id": "to_do_app_reactjs_package_dependencies_react_scripts",
+      "community": 2,
+      "norm_label": "react-scripts"
+    },
+    {
+      "label": "react-transition-group",
+      "file_type": "code",
+      "source_file": "package.json",
+      "source_location": "L10",
+      "id": "to_do_app_reactjs_package_dependencies_react_transition_group",
+      "community": 2,
+      "norm_label": "react-transition-group"
+    },
+    {
+      "label": "scripts",
+      "file_type": "code",
+      "source_file": "package.json",
+      "source_location": "L12",
+      "id": "to_do_app_reactjs_package_scripts",
+      "community": 3,
+      "norm_label": "scripts"
+    },
+    {
+      "label": "start",
+      "file_type": "code",
+      "source_file": "package.json",
+      "source_location": "L13",
+      "id": "to_do_app_reactjs_package_scripts_start",
+      "community": 3,
+      "norm_label": "start"
+    },
+    {
+      "label": "build",
+      "file_type": "code",
+      "source_file": "package.json",
+      "source_location": "L14",
+      "id": "to_do_app_reactjs_package_scripts_build",
+      "community": 3,
+      "norm_label": "build"
+    },
+    {
+      "label": "test",
+      "file_type": "code",
+      "source_file": "package.json",
+      "source_location": "L15",
+      "id": "to_do_app_reactjs_package_scripts_test",
+      "community": 3,
+      "norm_label": "test"
+    },
+    {
+      "label": "eject",
+      "file_type": "code",
+      "source_file": "package.json",
+      "source_location": "L16",
+      "id": "to_do_app_reactjs_package_scripts_eject",
+      "community": 3,
+      "norm_label": "eject"
+    },
+    {
+      "label": "index.js",
+      "file_type": "code",
+      "source_file": "src/index.js",
+      "source_location": "L1",
+      "id": "src_index_js",
+      "community": 0,
+      "norm_label": "index.js"
+    },
+    {
+      "label": "List.js",
+      "file_type": "code",
+      "source_file": "src/List.js",
+      "source_location": "L1",
+      "id": "src_list_js",
+      "community": 5,
+      "norm_label": "list.js"
+    },
+    {
+      "label": "List",
+      "file_type": "code",
+      "source_file": "src/List.js",
+      "source_location": "L4",
+      "id": "src_list_list",
+      "community": 5,
+      "norm_label": "list"
+    },
+    {
+      "label": ".removeItem()",
+      "file_type": "code",
+      "source_file": "src/List.js",
+      "source_location": "L5",
+      "id": "src_list_list_removeitem",
+      "community": 5,
+      "norm_label": ".removeitem()"
+    },
+    {
+      "label": ".render()",
+      "file_type": "code",
+      "source_file": "src/List.js",
+      "source_location": "L9",
+      "id": "src_list_list_render",
+      "community": 5,
+      "norm_label": ".render()"
+    },
+    {
+      "label": "registerServiceWorker.js",
+      "file_type": "code",
+      "source_file": "src/registerServiceWorker.js",
+      "source_location": "L1",
+      "id": "src_registerserviceworker_js",
+      "community": 1,
+      "norm_label": "registerserviceworker.js"
+    },
+    {
+      "label": "isLocalhost",
+      "file_type": "code",
+      "source_file": "src/registerServiceWorker.js",
+      "source_location": "L11",
+      "id": "src_registerserviceworker_islocalhost",
+      "community": 1,
+      "norm_label": "islocalhost"
+    },
+    {
+      "label": "register()",
+      "file_type": "code",
+      "source_file": "src/registerServiceWorker.js",
+      "source_location": "L21",
+      "id": "src_registerserviceworker_register",
+      "community": 1,
+      "norm_label": "register()"
+    },
+    {
+      "label": "registerValidSW()",
+      "file_type": "code",
+      "source_file": "src/registerServiceWorker.js",
+      "source_location": "L55",
+      "id": "src_registerserviceworker_registervalidsw",
+      "community": 1,
+      "norm_label": "registervalidsw()"
+    },
+    {
+      "label": "checkValidServiceWorker()",
+      "file_type": "code",
+      "source_file": "src/registerServiceWorker.js",
+      "source_location": "L84",
+      "id": "src_registerserviceworker_checkvalidserviceworker",
+      "community": 1,
+      "norm_label": "checkvalidserviceworker()"
+    },
+    {
+      "label": "unregister()",
+      "file_type": "code",
+      "source_file": "src/registerServiceWorker.js",
+      "source_location": "L111",
+      "id": "src_registerserviceworker_unregister",
+      "community": 1,
+      "norm_label": "unregister()"
+    },
+    {
+      "label": "App.js",
+      "file_type": "code",
+      "source_file": "src/App.js",
+      "source_location": "L1",
+      "id": "src_app_js",
+      "community": 0,
+      "norm_label": "app.js"
+    },
+    {
+      "label": "App",
+      "file_type": "code",
+      "source_file": "src/App.js",
+      "source_location": "L6",
+      "id": "src_app_app",
+      "community": 0,
+      "norm_label": "app"
+    },
+    {
+      "label": ".constructor()",
+      "file_type": "code",
+      "source_file": "src/App.js",
+      "source_location": "L7",
+      "id": "src_app_app_constructor",
+      "community": 0,
+      "norm_label": ".constructor()"
+    },
+    {
+      "label": ".removeTodo()",
+      "file_type": "code",
+      "source_file": "src/App.js",
+      "source_location": "L23",
+      "id": "src_app_app_removetodo",
+      "community": 0,
+      "norm_label": ".removetodo()"
+    },
+    {
+      "label": ".render()",
+      "file_type": "code",
+      "source_file": "src/App.js",
+      "source_location": "L33",
+      "id": "src_app_app_render",
+      "community": 0,
+      "norm_label": ".render()"
+    },
+    {
+      "label": "List",
+      "file_type": "code",
+      "source_file": "src/App.js",
+      "source_location": "L53",
+      "id": "src_app_list",
+      "community": 0,
+      "norm_label": "list"
+    },
+    {
+      "label": ".removeItem()",
+      "file_type": "code",
+      "source_file": "src/App.js",
+      "source_location": "L54",
+      "id": "src_app_list_removeitem",
+      "community": 0,
+      "norm_label": ".removeitem()"
+    },
+    {
+      "label": ".render()",
+      "file_type": "code",
+      "source_file": "src/App.js",
+      "source_location": "L58",
+      "id": "src_app_list_render",
+      "community": 0,
+      "norm_label": ".render()"
+    },
+    {
+      "label": "README.md",
+      "file_type": "document",
+      "source_file": "README.md",
+      "source_location": "L1",
+      "id": "readme_md",
+      "community": 6,
+      "norm_label": "readme.md"
+    },
+    {
+      "label": "This To-Do App is Created using React Js",
+      "file_type": "document",
+      "source_file": "README.md",
+      "source_location": "L1",
+      "id": "to_do_app_reactjs_readme_this_to_do_app_is_created_using_react_js",
+      "community": 6,
+      "norm_label": "this to-do app is created using react js"
+    }
+  ],
+  "links": [
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "package.json",
+      "source_location": "L2",
+      "weight": 1.0,
+      "source": "package_json",
+      "target": "to_do_app_reactjs_package_name",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "package.json",
+      "source_location": "L3",
+      "weight": 1.0,
+      "source": "package_json",
+      "target": "to_do_app_reactjs_package_version",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "package.json",
+      "source_location": "L4",
+      "weight": 1.0,
+      "source": "package_json",
+      "target": "to_do_app_reactjs_package_private",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "package.json",
+      "source_location": "L5",
+      "weight": 1.0,
+      "source": "package_json",
+      "target": "to_do_app_reactjs_package_dependencies",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "package.json",
+      "source_location": "L12",
+      "weight": 1.0,
+      "source": "package_json",
+      "target": "to_do_app_reactjs_package_scripts",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "package.json",
+      "source_location": "L6",
+      "weight": 1.0,
+      "source": "to_do_app_reactjs_package_dependencies",
+      "target": "to_do_app_reactjs_package_dependencies_react",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "package.json",
+      "source_location": "L7",
+      "weight": 1.0,
+      "source": "to_do_app_reactjs_package_dependencies",
+      "target": "to_do_app_reactjs_package_dependencies_react_dom",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "package.json",
+      "source_location": "L8",
+      "weight": 1.0,
+      "source": "to_do_app_reactjs_package_dependencies",
+      "target": "to_do_app_reactjs_package_dependencies_react_icons",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "package.json",
+      "source_location": "L9",
+      "weight": 1.0,
+      "source": "to_do_app_reactjs_package_dependencies",
+      "target": "to_do_app_reactjs_package_dependencies_react_scripts",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "package.json",
+      "source_location": "L10",
+      "weight": 1.0,
+      "source": "to_do_app_reactjs_package_dependencies",
+      "target": "to_do_app_reactjs_package_dependencies_react_transition_group",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "package.json",
+      "source_location": "L13",
+      "weight": 1.0,
+      "source": "to_do_app_reactjs_package_scripts",
+      "target": "to_do_app_reactjs_package_scripts_start",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "package.json",
+      "source_location": "L14",
+      "weight": 1.0,
+      "source": "to_do_app_reactjs_package_scripts",
+      "target": "to_do_app_reactjs_package_scripts_build",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "package.json",
+      "source_location": "L15",
+      "weight": 1.0,
+      "source": "to_do_app_reactjs_package_scripts",
+      "target": "to_do_app_reactjs_package_scripts_test",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "package.json",
+      "source_location": "L16",
+      "weight": 1.0,
+      "source": "to_do_app_reactjs_package_scripts",
+      "target": "to_do_app_reactjs_package_scripts_eject",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "src/index.js",
+      "source_location": "L3",
+      "weight": 1.0,
+      "source": "src_index_js",
+      "target": "src_app_js",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "src/index.js",
+      "source_location": "L4",
+      "weight": 1.0,
+      "source": "src_index_js",
+      "target": "src_registerserviceworker_js",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "src/List.js",
+      "source_location": "L4",
+      "weight": 1.0,
+      "source": "src_list_js",
+      "target": "src_list_list",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "src/List.js",
+      "source_location": "L5",
+      "weight": 1.0,
+      "source": "src_list_list",
+      "target": "src_list_list_removeitem",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "src/List.js",
+      "source_location": "L9",
+      "weight": 1.0,
+      "source": "src_list_list",
+      "target": "src_list_list_render",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "src/registerServiceWorker.js",
+      "source_location": "L11",
+      "weight": 1.0,
+      "source": "src_registerserviceworker_js",
+      "target": "src_registerserviceworker_islocalhost",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "src/registerServiceWorker.js",
+      "source_location": "L21",
+      "weight": 1.0,
+      "source": "src_registerserviceworker_js",
+      "target": "src_registerserviceworker_register",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "src/registerServiceWorker.js",
+      "source_location": "L55",
+      "weight": 1.0,
+      "source": "src_registerserviceworker_js",
+      "target": "src_registerserviceworker_registervalidsw",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "src/registerServiceWorker.js",
+      "source_location": "L84",
+      "weight": 1.0,
+      "source": "src_registerserviceworker_js",
+      "target": "src_registerserviceworker_checkvalidserviceworker",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "src/registerServiceWorker.js",
+      "source_location": "L111",
+      "weight": 1.0,
+      "source": "src_registerserviceworker_js",
+      "target": "src_registerserviceworker_unregister",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "src/registerServiceWorker.js",
+      "source_location": "L56",
+      "weight": 1.0,
+      "source": "src_registerserviceworker_registervalidsw",
+      "target": "src_registerserviceworker_register",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "src/App.js",
+      "source_location": "L6",
+      "weight": 1.0,
+      "source": "src_app_js",
+      "target": "src_app_app",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "src/App.js",
+      "source_location": "L53",
+      "weight": 1.0,
+      "source": "src_app_js",
+      "target": "src_app_list",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "src/App.js",
+      "source_location": "L7",
+      "weight": 1.0,
+      "source": "src_app_app",
+      "target": "src_app_app_constructor",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "src/App.js",
+      "source_location": "L23",
+      "weight": 1.0,
+      "source": "src_app_app",
+      "target": "src_app_app_removetodo",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "src/App.js",
+      "source_location": "L33",
+      "weight": 1.0,
+      "source": "src_app_app",
+      "target": "src_app_app_render",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "src/App.js",
+      "source_location": "L55",
+      "weight": 1.0,
+      "source": "src_app_list_removeitem",
+      "target": "src_app_app_removetodo",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "src/App.js",
+      "source_location": "L54",
+      "weight": 1.0,
+      "source": "src_app_list",
+      "target": "src_app_list_removeitem",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "src/App.js",
+      "source_location": "L58",
+      "weight": 1.0,
+      "source": "src_app_list",
+      "target": "src_app_list_render",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "README.md",
+      "source_location": "L1",
+      "weight": 1.0,
+      "source": "readme_md",
+      "target": "to_do_app_reactjs_readme_this_to_do_app_is_created_using_react_js",
+      "confidence_score": 1.0
+    }
+  ],
+  "hyperedges": []
+}

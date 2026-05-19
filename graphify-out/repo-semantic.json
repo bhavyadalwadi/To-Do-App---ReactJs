@@ -1,0 +1,71 @@
+{
+  "repo": "To-Do-App---ReactJs",
+  "title": "To-Do-App---ReactJs",
+  "purpose": "Simple React to-do list app for adding and removing tasks with lightweight animations and icon-based actions.",
+  "domains": [
+    "web app",
+    "learning"
+  ],
+  "tech_stack": [
+    "Node.js",
+    "React",
+    "JavaScript",
+    "react-transition-group"
+  ],
+  "features": [
+    "Controlled text input for task creation",
+    "Local state management for a task list",
+    "Delete action through a trash icon interaction",
+    "Animated list transitions for add and remove behavior",
+    "Simple validation against empty task submissions"
+  ],
+  "pending_state": "unknown",
+  "pending_items": [],
+  "status_confidence": "medium",
+  "main_modules": [
+    "src",
+    "public"
+  ],
+  "key_flows": [
+    "graphify-out/GRAPH_REPORT.md",
+    "package.json",
+    "src/index.js"
+  ],
+  "known_outputs": [
+    "graphify-out/graph.json",
+    "graphify-out/graph.html",
+    "graphify-out/GRAPH_REPORT.md"
+  ],
+  "current_work_guess": "This is a small React practice app with stable local functionality and no documented active roadmap.",
+  "likely_entrypoints": [
+    "README.md",
+    "src/App.js",
+    "package.json"
+  ],
+  "notable_docs": [
+    "README.md",
+    "src/App.js"
+  ],
+  "graph_stats": "36 nodes \u00b7 34 edges \u00b7 7 communities (4 shown, 3 thin omitted)",
+  "god_nodes": [
+    "dependencies",
+    "scripts",
+    "App",
+    "List",
+    "List"
+  ],
+  "llm_start_here": [
+    "README.md",
+    "src/App.js",
+    "graphify-out/repo-semantic-summary.md"
+  ],
+  "suggested_next_steps": [
+    "Add task persistence if you want it to behave more like a complete utility app",
+    "Add edit or complete-state handling for a fuller CRUD example"
+  ],
+  "evidence_files": [
+    "README.md",
+    "src/App.js",
+    "package.json"
+  ]
+}
