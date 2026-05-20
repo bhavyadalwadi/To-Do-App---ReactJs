@@ -38,3 +38,7 @@ This repo is a small front-end practice app focused on React component state, li
 
 - Shows practical React patterns for controlled inputs, local state, and list interactions
 - Good as a compact UI exercise, not as a flagship product repo
+
+## Maintenance note
+
+- TODO: archive this repo later if you want a stricter recruiter-facing GitHub profile
