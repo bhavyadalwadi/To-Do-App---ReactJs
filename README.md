@@ -1,4 +1,6 @@
-# To-Do-App---ReactJs
+# To-Do-App---ReactJs [Archived]
+
+Status: Archived. Kept as older practice work.
 
 Simple React to-do list app for adding and removing tasks with lightweight animations and icon-based actions.
 
