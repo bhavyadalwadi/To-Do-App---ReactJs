@@ -9,7 +9,7 @@
       "source_file": "package.json",
       "source_location": "L1",
       "id": "package_json",
-      "community": 4,
+      "community": 2,
       "norm_label": "package.json"
     },
     {
@@ -18,7 +18,7 @@
       "source_file": "package.json",
       "source_location": "L2",
       "id": "to_do_app_reactjs_package_name",
-      "community": 4,
+      "community": 2,
       "norm_label": "name"
     },
     {
@@ -27,7 +27,7 @@
       "source_file": "package.json",
       "source_location": "L3",
       "id": "to_do_app_reactjs_package_version",
-      "community": 4,
+      "community": 2,
       "norm_label": "version"
     },
     {
@@ -36,7 +36,7 @@
       "source_file": "package.json",
       "source_location": "L4",
       "id": "to_do_app_reactjs_package_private",
-      "community": 4,
+      "community": 2,
       "norm_label": "private"
     },
     {
@@ -99,7 +99,7 @@
       "source_file": "package.json",
       "source_location": "L12",
       "id": "to_do_app_reactjs_package_scripts",
-      "community": 3,
+      "community": 2,
       "norm_label": "scripts"
     },
     {
@@ -108,7 +108,7 @@
       "source_file": "package.json",
       "source_location": "L13",
       "id": "to_do_app_reactjs_package_scripts_start",
-      "community": 3,
+      "community": 2,
       "norm_label": "start"
     },
     {
@@ -117,7 +117,7 @@
       "source_file": "package.json",
       "source_location": "L14",
       "id": "to_do_app_reactjs_package_scripts_build",
-      "community": 3,
+      "community": 2,
       "norm_label": "build"
     },
     {
@@ -126,7 +126,7 @@
       "source_file": "package.json",
       "source_location": "L15",
       "id": "to_do_app_reactjs_package_scripts_test",
-      "community": 3,
+      "community": 2,
       "norm_label": "test"
     },
     {
@@ -135,7 +135,7 @@
       "source_file": "package.json",
       "source_location": "L16",
       "id": "to_do_app_reactjs_package_scripts_eject",
-      "community": 3,
+      "community": 2,
       "norm_label": "eject"
     },
     {
@@ -189,7 +189,7 @@
       "source_file": "src/registerServiceWorker.js",
       "source_location": "L1",
       "id": "src_registerserviceworker_js",
-      "community": 1,
+      "community": 0,
       "norm_label": "registerserviceworker.js"
     },
     {
@@ -198,7 +198,7 @@
       "source_file": "src/registerServiceWorker.js",
       "source_location": "L11",
       "id": "src_registerserviceworker_islocalhost",
-      "community": 1,
+      "community": 0,
       "norm_label": "islocalhost"
     },
     {
@@ -207,7 +207,7 @@
       "source_file": "src/registerServiceWorker.js",
       "source_location": "L21",
       "id": "src_registerserviceworker_register",
-      "community": 1,
+      "community": 0,
       "norm_label": "register()"
     },
     {
@@ -216,7 +216,7 @@
       "source_file": "src/registerServiceWorker.js",
       "source_location": "L55",
       "id": "src_registerserviceworker_registervalidsw",
-      "community": 1,
+      "community": 0,
       "norm_label": "registervalidsw()"
     },
     {
@@ -225,7 +225,7 @@
       "source_file": "src/registerServiceWorker.js",
       "source_location": "L84",
       "id": "src_registerserviceworker_checkvalidserviceworker",
-      "community": 1,
+      "community": 0,
       "norm_label": "checkvalidserviceworker()"
     },
     {
@@ -234,7 +234,7 @@
       "source_file": "src/registerServiceWorker.js",
       "source_location": "L111",
       "id": "src_registerserviceworker_unregister",
-      "community": 1,
+      "community": 0,
       "norm_label": "unregister()"
     },
     {
@@ -319,13 +319,1003 @@
       "norm_label": "readme.md"
     },
     {
+      "label": "To-Do-App---ReactJs [Archived]",
+      "file_type": "document",
+      "source_file": "README.md",
+      "source_location": "L1",
+      "id": "to_do_app_reactjs_readme_to_do_app_reactjs_archived",
+      "community": 6,
+      "norm_label": "to-do-app---reactjs [archived]"
+    },
+    {
+      "label": "Why this repo exists",
+      "file_type": "document",
+      "source_file": "README.md",
+      "source_location": "L7",
+      "id": "to_do_app_reactjs_readme_why_this_repo_exists",
+      "community": 6,
+      "norm_label": "why this repo exists"
+    },
+    {
+      "label": "What it does",
+      "file_type": "document",
+      "source_file": "README.md",
+      "source_location": "L11",
+      "id": "to_do_app_reactjs_readme_what_it_does",
+      "community": 6,
+      "norm_label": "what it does"
+    },
+    {
+      "label": "Run locally",
+      "file_type": "document",
+      "source_file": "README.md",
+      "source_location": "L19",
+      "id": "to_do_app_reactjs_readme_run_locally",
+      "community": 6,
+      "norm_label": "run locally"
+    },
+    {
+      "label": "Key files",
+      "file_type": "document",
+      "source_file": "README.md",
+      "source_location": "L26",
+      "id": "to_do_app_reactjs_readme_key_files",
+      "community": 6,
+      "norm_label": "key files"
+    },
+    {
+      "label": "Current status",
+      "file_type": "document",
+      "source_file": "README.md",
+      "source_location": "L33",
+      "id": "to_do_app_reactjs_readme_current_status",
+      "community": 6,
+      "norm_label": "current status"
+    },
+    {
+      "label": "Resume value",
+      "file_type": "document",
+      "source_file": "README.md",
+      "source_location": "L39",
+      "id": "to_do_app_reactjs_readme_resume_value",
+      "community": 6,
+      "norm_label": "resume value"
+    },
+    {
+      "label": "Maintenance note",
+      "file_type": "document",
+      "source_file": "README.md",
+      "source_location": "L44",
+      "id": "to_do_app_reactjs_readme_maintenance_note",
+      "community": 6,
+      "norm_label": "maintenance note"
+    },
+    {
+      "label": "project_context.md",
+      "file_type": "document",
+      "source_file": ".claude/project_context.md",
+      "source_location": "L1",
+      "id": "claude_project_context_md",
+      "community": 1,
+      "norm_label": "project_context.md"
+    },
+    {
+      "label": "To-Do-App---ReactJs Project Context",
+      "file_type": "document",
+      "source_file": ".claude/project_context.md",
+      "source_location": "L1",
+      "id": "claude_project_context_to_do_app_reactjs_project_context",
+      "community": 1,
+      "norm_label": "to-do-app---reactjs project context"
+    },
+    {
+      "label": "Business Purpose",
+      "file_type": "document",
+      "source_file": ".claude/project_context.md",
+      "source_location": "L5",
+      "id": "claude_project_context_business_purpose",
+      "community": 1,
+      "norm_label": "business purpose"
+    },
+    {
+      "label": "System Overview",
+      "file_type": "document",
+      "source_file": ".claude/project_context.md",
+      "source_location": "L8",
+      "id": "claude_project_context_system_overview",
+      "community": 1,
+      "norm_label": "system overview"
+    },
+    {
+      "label": "Major Applications",
+      "file_type": "document",
+      "source_file": ".claude/project_context.md",
+      "source_location": "L11",
+      "id": "claude_project_context_major_applications",
+      "community": 1,
+      "norm_label": "major applications"
+    },
+    {
+      "label": "Environments",
+      "file_type": "document",
+      "source_file": ".claude/project_context.md",
+      "source_location": "L14",
+      "id": "claude_project_context_environments",
+      "community": 1,
+      "norm_label": "environments"
+    },
+    {
+      "label": "Tech Stack",
+      "file_type": "document",
+      "source_file": ".claude/project_context.md",
+      "source_location": "L17",
+      "id": "claude_project_context_tech_stack",
+      "community": 1,
+      "norm_label": "tech stack"
+    },
+    {
+      "label": "Critical Dependencies",
+      "file_type": "document",
+      "source_file": ".claude/project_context.md",
+      "source_location": "L23",
+      "id": "claude_project_context_critical_dependencies",
+      "community": 1,
+      "norm_label": "critical dependencies"
+    },
+    {
+      "label": "Major Workflows",
+      "file_type": "document",
+      "source_file": ".claude/project_context.md",
+      "source_location": "L30",
+      "id": "claude_project_context_major_workflows",
+      "community": 1,
+      "norm_label": "major workflows"
+    },
+    {
+      "label": "Operational Constraints",
+      "file_type": "document",
+      "source_file": ".claude/project_context.md",
+      "source_location": "L37",
+      "id": "claude_project_context_operational_constraints",
+      "community": 1,
+      "norm_label": "operational constraints"
+    },
+    {
+      "label": "Scaling Constraints",
+      "file_type": "document",
+      "source_file": ".claude/project_context.md",
+      "source_location": "L40",
+      "id": "claude_project_context_scaling_constraints",
+      "community": 1,
+      "norm_label": "scaling constraints"
+    },
+    {
+      "label": "Deployment Model",
+      "file_type": "document",
+      "source_file": ".claude/project_context.md",
+      "source_location": "L43",
+      "id": "claude_project_context_deployment_model",
+      "community": 1,
+      "norm_label": "deployment model"
+    },
+    {
+      "label": "Important APIs",
+      "file_type": "document",
+      "source_file": ".claude/project_context.md",
+      "source_location": "L46",
+      "id": "claude_project_context_important_apis",
+      "community": 1,
+      "norm_label": "important apis"
+    },
+    {
+      "label": "Important Databases",
+      "file_type": "document",
+      "source_file": ".claude/project_context.md",
+      "source_location": "L49",
+      "id": "claude_project_context_important_databases",
+      "community": 1,
+      "norm_label": "important databases"
+    },
+    {
+      "label": "Important Queues / Events",
+      "file_type": "document",
+      "source_file": ".claude/project_context.md",
+      "source_location": "L52",
+      "id": "claude_project_context_important_queues_events",
+      "community": 1,
+      "norm_label": "important queues / events"
+    },
+    {
+      "label": "Known Technical Debt",
+      "file_type": "document",
+      "source_file": ".claude/project_context.md",
+      "source_location": "L55",
+      "id": "claude_project_context_known_technical_debt",
+      "community": 1,
+      "norm_label": "known technical debt"
+    },
+    {
+      "label": "Current Architecture Themes",
+      "file_type": "document",
+      "source_file": ".claude/project_context.md",
+      "source_location": "L58",
+      "id": "claude_project_context_current_architecture_themes",
+      "community": 1,
+      "norm_label": "current architecture themes"
+    },
+    {
+      "label": "workflows.md",
+      "file_type": "document",
+      "source_file": ".claude/workflows.md",
+      "source_location": "L1",
+      "id": "claude_workflows_md",
+      "community": 7,
+      "norm_label": "workflows.md"
+    },
+    {
+      "label": "To-Do-App---ReactJs Workflows",
+      "file_type": "document",
+      "source_file": ".claude/workflows.md",
+      "source_location": "L1",
+      "id": "claude_workflows_to_do_app_reactjs_workflows",
+      "community": 7,
+      "norm_label": "to-do-app---reactjs workflows"
+    },
+    {
+      "label": "Local Development",
+      "file_type": "document",
+      "source_file": ".claude/workflows.md",
+      "source_location": "L3",
+      "id": "claude_workflows_local_development",
+      "community": 7,
+      "norm_label": "local development"
+    },
+    {
+      "label": "Testing",
+      "file_type": "document",
+      "source_file": ".claude/workflows.md",
+      "source_location": "L6",
+      "id": "claude_workflows_testing",
+      "community": 7,
+      "norm_label": "testing"
+    },
+    {
+      "label": "Deployment",
+      "file_type": "document",
+      "source_file": ".claude/workflows.md",
+      "source_location": "L9",
+      "id": "claude_workflows_deployment",
+      "community": 7,
+      "norm_label": "deployment"
+    },
+    {
+      "label": "Migrations",
+      "file_type": "document",
+      "source_file": ".claude/workflows.md",
+      "source_location": "L12",
+      "id": "claude_workflows_migrations",
+      "community": 7,
+      "norm_label": "migrations"
+    },
+    {
+      "label": "Feature Rollout",
+      "file_type": "document",
+      "source_file": ".claude/workflows.md",
+      "source_location": "L15",
+      "id": "claude_workflows_feature_rollout",
+      "community": 7,
+      "norm_label": "feature rollout"
+    },
+    {
+      "label": "Incident Response",
+      "file_type": "document",
+      "source_file": ".claude/workflows.md",
+      "source_location": "L19",
+      "id": "claude_workflows_incident_response",
+      "community": 7,
+      "norm_label": "incident response"
+    },
+    {
+      "label": "Debugging",
+      "file_type": "document",
+      "source_file": ".claude/workflows.md",
+      "source_location": "L24",
+      "id": "claude_workflows_debugging",
+      "community": 7,
+      "norm_label": "debugging"
+    },
+    {
+      "label": "Rollback",
+      "file_type": "document",
+      "source_file": ".claude/workflows.md",
+      "source_location": "L29",
+      "id": "claude_workflows_rollback",
+      "community": 7,
+      "norm_label": "rollback"
+    },
+    {
+      "label": "Observability Investigation",
+      "file_type": "document",
+      "source_file": ".claude/workflows.md",
+      "source_location": "L34",
+      "id": "claude_workflows_observability_investigation",
+      "community": 7,
+      "norm_label": "observability investigation"
+    },
+    {
+      "label": "architecture.md",
+      "file_type": "document",
+      "source_file": ".claude/architecture.md",
+      "source_location": "L1",
+      "id": "claude_architecture_md",
+      "community": 4,
+      "norm_label": "architecture.md"
+    },
+    {
+      "label": "To-Do-App---ReactJs Architecture",
+      "file_type": "document",
+      "source_file": ".claude/architecture.md",
+      "source_location": "L1",
+      "id": "claude_architecture_to_do_app_reactjs_architecture",
+      "community": 4,
+      "norm_label": "to-do-app---reactjs architecture"
+    },
+    {
+      "label": "End-to-End Request Flows",
+      "file_type": "document",
+      "source_file": ".claude/architecture.md",
+      "source_location": "L3",
+      "id": "claude_architecture_end_to_end_request_flows",
+      "community": 4,
+      "norm_label": "end-to-end request flows"
+    },
+    {
+      "label": "Frontend / Backend Interaction",
+      "file_type": "document",
+      "source_file": ".claude/architecture.md",
+      "source_location": "L6",
+      "id": "claude_architecture_frontend_backend_interaction",
+      "community": 4,
+      "norm_label": "frontend / backend interaction"
+    },
+    {
+      "label": "Service Boundaries",
+      "file_type": "document",
+      "source_file": ".claude/architecture.md",
+      "source_location": "L10",
+      "id": "claude_architecture_service_boundaries",
+      "community": 4,
+      "norm_label": "service boundaries"
+    },
+    {
+      "label": "Sync vs Async Flows",
+      "file_type": "document",
+      "source_file": ".claude/architecture.md",
+      "source_location": "L13",
+      "id": "claude_architecture_sync_vs_async_flows",
+      "community": 4,
+      "norm_label": "sync vs async flows"
+    },
+    {
+      "label": "Event-Driven Architecture",
+      "file_type": "document",
+      "source_file": ".claude/architecture.md",
+      "source_location": "L16",
+      "id": "claude_architecture_event_driven_architecture",
+      "community": 4,
+      "norm_label": "event-driven architecture"
+    },
+    {
+      "label": "Caching Layers",
+      "file_type": "document",
+      "source_file": ".claude/architecture.md",
+      "source_location": "L19",
+      "id": "claude_architecture_caching_layers",
+      "community": 4,
+      "norm_label": "caching layers"
+    },
+    {
+      "label": "Auth Flow",
+      "file_type": "document",
+      "source_file": ".claude/architecture.md",
+      "source_location": "L22",
+      "id": "claude_architecture_auth_flow",
+      "community": 4,
+      "norm_label": "auth flow"
+    },
+    {
+      "label": "Deployment Topology",
+      "file_type": "document",
+      "source_file": ".claude/architecture.md",
+      "source_location": "L25",
+      "id": "claude_architecture_deployment_topology",
+      "community": 4,
+      "norm_label": "deployment topology"
+    },
+    {
+      "label": "Scaling Behavior",
+      "file_type": "document",
+      "source_file": ".claude/architecture.md",
+      "source_location": "L28",
+      "id": "claude_architecture_scaling_behavior",
+      "community": 4,
+      "norm_label": "scaling behavior"
+    },
+    {
+      "label": "Resilience Mechanisms",
+      "file_type": "document",
+      "source_file": ".claude/architecture.md",
+      "source_location": "L32",
+      "id": "claude_architecture_resilience_mechanisms",
+      "community": 4,
+      "norm_label": "resilience mechanisms"
+    },
+    {
+      "label": "Failover Behavior",
+      "file_type": "document",
+      "source_file": ".claude/architecture.md",
+      "source_location": "L36",
+      "id": "claude_architecture_failover_behavior",
+      "community": 4,
+      "norm_label": "failover behavior"
+    },
+    {
+      "label": "Observability Architecture",
+      "file_type": "document",
+      "source_file": ".claude/architecture.md",
+      "source_location": "L39",
+      "id": "claude_architecture_observability_architecture",
+      "community": 4,
+      "norm_label": "observability architecture"
+    },
+    {
+      "label": "Retry / Idempotency Patterns",
+      "file_type": "document",
+      "source_file": ".claude/architecture.md",
+      "source_location": "L42",
+      "id": "claude_architecture_retry_idempotency_patterns",
+      "community": 4,
+      "norm_label": "retry / idempotency patterns"
+    },
+    {
+      "label": "repository_navigation.md",
+      "file_type": "document",
+      "source_file": ".claude/repository_navigation.md",
+      "source_location": "L1",
+      "id": "claude_repository_navigation_md",
+      "community": 11,
+      "norm_label": "repository_navigation.md"
+    },
+    {
+      "label": "Top-Level Modules",
+      "file_type": "document",
+      "source_file": ".claude/repository_navigation.md",
+      "source_location": "L1",
+      "id": "claude_repository_navigation_top_level_modules",
+      "community": 11,
+      "norm_label": "top-level modules"
+    },
+    {
+      "label": "Read First",
+      "file_type": "document",
+      "source_file": ".claude/repository_navigation.md",
+      "source_location": "L6",
+      "id": "claude_repository_navigation_read_first",
+      "community": 11,
+      "norm_label": "read first"
+    },
+    {
+      "label": "Critical Entrypoints",
+      "file_type": "document",
+      "source_file": ".claude/repository_navigation.md",
+      "source_location": "L13",
+      "id": "claude_repository_navigation_critical_entrypoints",
+      "community": 11,
+      "norm_label": "critical entrypoints"
+    },
+    {
+      "label": "graph_relationships.md",
+      "file_type": "document",
+      "source_file": ".claude/graph_relationships.md",
+      "source_location": "L1",
+      "id": "claude_graph_relationships_md",
+      "community": 12,
+      "norm_label": "graph_relationships.md"
+    },
+    {
+      "label": "To-Do-App---ReactJs Graph Relationships",
+      "file_type": "document",
+      "source_file": ".claude/graph_relationships.md",
+      "source_location": "L1",
+      "id": "claude_graph_relationships_to_do_app_reactjs_graph_relationships",
+      "community": 12,
+      "norm_label": "to-do-app---reactjs graph relationships"
+    },
+    {
+      "label": "decision_log.md",
+      "file_type": "document",
+      "source_file": ".claude/decision_log.md",
+      "source_location": "L1",
+      "id": "claude_decision_log_md",
+      "community": 10,
+      "norm_label": "decision_log.md"
+    },
+    {
+      "label": "To-Do-App---ReactJs Decision Log",
+      "file_type": "document",
+      "source_file": ".claude/decision_log.md",
+      "source_location": "L1",
+      "id": "claude_decision_log_to_do_app_reactjs_decision_log",
+      "community": 10,
+      "norm_label": "to-do-app---reactjs decision log"
+    },
+    {
+      "label": "Graphify-first repo discovery",
+      "file_type": "document",
+      "source_file": ".claude/decision_log.md",
+      "source_location": "L3",
+      "id": "claude_decision_log_graphify_first_repo_discovery",
+      "community": 10,
+      "norm_label": "graphify-first repo discovery"
+    },
+    {
+      "label": "Preserve repo separation",
+      "file_type": "document",
+      "source_file": ".claude/decision_log.md",
+      "source_location": "L9",
+      "id": "claude_decision_log_preserve_repo_separation",
+      "community": 10,
+      "norm_label": "preserve repo separation"
+    },
+    {
+      "label": "known_pitfalls.md",
+      "file_type": "document",
+      "source_file": ".claude/known_pitfalls.md",
+      "source_location": "L1",
+      "id": "claude_known_pitfalls_md",
+      "community": 13,
+      "norm_label": "known_pitfalls.md"
+    },
+    {
+      "label": "To-Do-App---ReactJs Known Pitfalls",
+      "file_type": "document",
+      "source_file": ".claude/known_pitfalls.md",
+      "source_location": "L1",
+      "id": "claude_known_pitfalls_to_do_app_reactjs_known_pitfalls",
+      "community": 13,
+      "norm_label": "to-do-app---reactjs known pitfalls"
+    },
+    {
+      "label": "onboarding.md",
+      "file_type": "document",
+      "source_file": ".claude/onboarding.md",
+      "source_location": "L1",
+      "id": "claude_onboarding_md",
+      "community": 9,
+      "norm_label": "onboarding.md"
+    },
+    {
+      "label": "To-Do-App---ReactJs Onboarding",
+      "file_type": "document",
+      "source_file": ".claude/onboarding.md",
+      "source_location": "L1",
+      "id": "claude_onboarding_to_do_app_reactjs_onboarding",
+      "community": 9,
+      "norm_label": "to-do-app---reactjs onboarding"
+    },
+    {
+      "label": "First Read",
+      "file_type": "document",
+      "source_file": ".claude/onboarding.md",
+      "source_location": "L3",
+      "id": "claude_onboarding_first_read",
+      "community": 9,
+      "norm_label": "first read"
+    },
+    {
+      "label": "Critical Entrypoints",
+      "file_type": "document",
+      "source_file": ".claude/onboarding.md",
+      "source_location": "L10",
+      "id": "claude_onboarding_critical_entrypoints",
+      "community": 9,
+      "norm_label": "critical entrypoints"
+    },
+    {
+      "label": "Module Map",
+      "file_type": "document",
+      "source_file": ".claude/onboarding.md",
+      "source_location": "L16",
+      "id": "claude_onboarding_module_map",
+      "community": 9,
+      "norm_label": "module map"
+    },
+    {
+      "label": "How To Start Reasoning",
+      "file_type": "document",
+      "source_file": ".claude/onboarding.md",
+      "source_location": "L21",
+      "id": "claude_onboarding_how_to_start_reasoning",
+      "community": 9,
+      "norm_label": "how to start reasoning"
+    },
+    {
+      "label": "Local Run Baseline",
+      "file_type": "document",
+      "source_file": ".claude/onboarding.md",
+      "source_location": "L26",
+      "id": "claude_onboarding_local_run_baseline",
+      "community": 9,
+      "norm_label": "local run baseline"
+    },
+    {
+      "label": "coding_rules.md",
+      "file_type": "document",
+      "source_file": ".claude/coding_rules.md",
+      "source_location": "L1",
+      "id": "claude_coding_rules_md",
+      "community": 8,
+      "norm_label": "coding_rules.md"
+    },
+    {
+      "label": "To-Do-App---ReactJs Coding Rules",
+      "file_type": "document",
+      "source_file": ".claude/coding_rules.md",
+      "source_location": "L1",
+      "id": "claude_coding_rules_to_do_app_reactjs_coding_rules",
+      "community": 8,
+      "norm_label": "to-do-app---reactjs coding rules"
+    },
+    {
+      "label": "Naming / Structure",
+      "file_type": "document",
+      "source_file": ".claude/coding_rules.md",
+      "source_location": "L3",
+      "id": "claude_coding_rules_naming_structure",
+      "community": 8,
+      "norm_label": "naming / structure"
+    },
+    {
+      "label": "Architecture Patterns",
+      "file_type": "document",
+      "source_file": ".claude/coding_rules.md",
+      "source_location": "L7",
+      "id": "claude_coding_rules_architecture_patterns",
+      "community": 8,
+      "norm_label": "architecture patterns"
+    },
+    {
+      "label": "State Management",
+      "file_type": "document",
+      "source_file": ".claude/coding_rules.md",
+      "source_location": "L12",
+      "id": "claude_coding_rules_state_management",
+      "community": 8,
+      "norm_label": "state management"
+    },
+    {
+      "label": "Error Handling / Logging",
+      "file_type": "document",
+      "source_file": ".claude/coding_rules.md",
+      "source_location": "L15",
+      "id": "claude_coding_rules_error_handling_logging",
+      "community": 8,
+      "norm_label": "error handling / logging"
+    },
+    {
+      "label": "API Conventions",
+      "file_type": "document",
+      "source_file": ".claude/coding_rules.md",
+      "source_location": "L20",
+      "id": "claude_coding_rules_api_conventions",
+      "community": 8,
+      "norm_label": "api conventions"
+    },
+    {
+      "label": "Testing Conventions",
+      "file_type": "document",
+      "source_file": ".claude/coding_rules.md",
+      "source_location": "L24",
+      "id": "claude_coding_rules_testing_conventions",
+      "community": 8,
+      "norm_label": "testing conventions"
+    },
+    {
+      "label": "Typing / Abstractions",
+      "file_type": "document",
+      "source_file": ".claude/coding_rules.md",
+      "source_location": "L27",
+      "id": "claude_coding_rules_typing_abstractions",
+      "community": 8,
+      "norm_label": "typing / abstractions"
+    },
+    {
+      "label": "Database / Migration Patterns",
+      "file_type": "document",
+      "source_file": ".claude/coding_rules.md",
+      "source_location": "L31",
+      "id": "claude_coding_rules_database_migration_patterns",
+      "community": 8,
+      "norm_label": "database / migration patterns"
+    },
+    {
+      "label": "system_prompt.md",
+      "file_type": "document",
+      "source_file": ".claude/system_prompt.md",
+      "source_location": "L1",
+      "id": "claude_system_prompt_md",
+      "community": 20,
+      "norm_label": "system_prompt.md"
+    },
+    {
+      "label": "To-Do-App---ReactJs Claude System Prompt",
+      "file_type": "document",
+      "source_file": ".claude/system_prompt.md",
+      "source_location": "L1",
+      "id": "claude_system_prompt_to_do_app_reactjs_claude_system_prompt",
+      "community": 20,
+      "norm_label": "to-do-app---reactjs claude system prompt"
+    },
+    {
+      "label": "debug.md",
+      "file_type": "document",
+      "source_file": ".claude/prompts/debug.md",
+      "source_location": "L1",
+      "id": "claude_prompts_debug_md",
+      "community": 15,
+      "norm_label": "debug.md"
+    },
+    {
+      "label": "Debug Prompt",
+      "file_type": "document",
+      "source_file": ".claude/prompts/debug.md",
+      "source_location": "L1",
+      "id": "prompts_debug_debug_prompt",
+      "community": 15,
+      "norm_label": "debug prompt"
+    },
+    {
+      "label": "incident_response.md",
+      "file_type": "document",
+      "source_file": ".claude/prompts/incident_response.md",
+      "source_location": "L1",
+      "id": "claude_prompts_incident_response_md",
+      "community": 17,
+      "norm_label": "incident_response.md"
+    },
+    {
+      "label": "Incident Response Prompt",
+      "file_type": "document",
+      "source_file": ".claude/prompts/incident_response.md",
+      "source_location": "L1",
+      "id": "prompts_incident_response_incident_response_prompt",
+      "community": 17,
+      "norm_label": "incident response prompt"
+    },
+    {
+      "label": "architecture_review.md",
+      "file_type": "document",
+      "source_file": ".claude/prompts/architecture_review.md",
+      "source_location": "L1",
+      "id": "claude_prompts_architecture_review_md",
+      "community": 14,
+      "norm_label": "architecture_review.md"
+    },
+    {
+      "label": "Architecture Review Prompt",
+      "file_type": "document",
+      "source_file": ".claude/prompts/architecture_review.md",
+      "source_location": "L1",
+      "id": "prompts_architecture_review_architecture_review_prompt",
+      "community": 14,
+      "norm_label": "architecture review prompt"
+    },
+    {
+      "label": "refactor.md",
+      "file_type": "document",
+      "source_file": ".claude/prompts/refactor.md",
+      "source_location": "L1",
+      "id": "claude_prompts_refactor_md",
+      "community": 19,
+      "norm_label": "refactor.md"
+    },
+    {
+      "label": "Refactor Prompt",
+      "file_type": "document",
+      "source_file": ".claude/prompts/refactor.md",
+      "source_location": "L1",
+      "id": "prompts_refactor_refactor_prompt",
+      "community": 19,
+      "norm_label": "refactor prompt"
+    },
+    {
+      "label": "feature.md",
+      "file_type": "document",
+      "source_file": ".claude/prompts/feature.md",
+      "source_location": "L1",
+      "id": "claude_prompts_feature_md",
+      "community": 16,
+      "norm_label": "feature.md"
+    },
+    {
+      "label": "Feature Prompt",
+      "file_type": "document",
+      "source_file": ".claude/prompts/feature.md",
+      "source_location": "L1",
+      "id": "prompts_feature_feature_prompt",
+      "community": 16,
+      "norm_label": "feature prompt"
+    },
+    {
+      "label": "performance_analysis.md",
+      "file_type": "document",
+      "source_file": ".claude/prompts/performance_analysis.md",
+      "source_location": "L1",
+      "id": "claude_prompts_performance_analysis_md",
+      "community": 18,
+      "norm_label": "performance_analysis.md"
+    },
+    {
+      "label": "Performance Analysis Prompt",
+      "file_type": "document",
+      "source_file": ".claude/prompts/performance_analysis.md",
+      "source_location": "L1",
+      "id": "prompts_performance_analysis_performance_analysis_prompt",
+      "community": 18,
+      "norm_label": "performance analysis prompt"
+    },
+    {
+      "label": "primary-app.md",
+      "file_type": "document",
+      "source_file": ".claude/services/primary-app.md",
+      "source_location": "L1",
+      "id": "claude_services_primary_app_md",
+      "community": 3,
+      "norm_label": "primary-app.md"
+    },
+    {
+      "label": "Primary App",
+      "file_type": "document",
+      "source_file": ".claude/services/primary-app.md",
+      "source_location": "L1",
+      "id": "services_primary_app_primary_app",
+      "community": 3,
+      "norm_label": "primary app"
+    },
+    {
+      "label": "Responsibility",
+      "file_type": "document",
+      "source_file": ".claude/services/primary-app.md",
+      "source_location": "L3",
+      "id": "services_primary_app_responsibility",
+      "community": 3,
+      "norm_label": "responsibility"
+    },
+    {
+      "label": "Dependencies",
+      "file_type": "document",
+      "source_file": ".claude/services/primary-app.md",
+      "source_location": "L6",
+      "id": "services_primary_app_dependencies",
+      "community": 3,
+      "norm_label": "dependencies"
+    },
+    {
+      "label": "Inbound APIs",
+      "file_type": "document",
+      "source_file": ".claude/services/primary-app.md",
+      "source_location": "L12",
+      "id": "services_primary_app_inbound_apis",
+      "community": 3,
+      "norm_label": "inbound apis"
+    },
+    {
+      "label": "Outbound APIs",
+      "file_type": "document",
+      "source_file": ".claude/services/primary-app.md",
+      "source_location": "L15",
+      "id": "services_primary_app_outbound_apis",
+      "community": 3,
+      "norm_label": "outbound apis"
+    },
+    {
+      "label": "Databases Used",
+      "file_type": "document",
+      "source_file": ".claude/services/primary-app.md",
+      "source_location": "L18",
+      "id": "services_primary_app_databases_used",
+      "community": 3,
+      "norm_label": "databases used"
+    },
+    {
+      "label": "Queues / Topics",
+      "file_type": "document",
+      "source_file": ".claude/services/primary-app.md",
+      "source_location": "L21",
+      "id": "services_primary_app_queues_topics",
+      "community": 3,
+      "norm_label": "queues / topics"
+    },
+    {
+      "label": "Critical Workflows",
+      "file_type": "document",
+      "source_file": ".claude/services/primary-app.md",
+      "source_location": "L24",
+      "id": "services_primary_app_critical_workflows",
+      "community": 3,
+      "norm_label": "critical workflows"
+    },
+    {
+      "label": "Failure Modes",
+      "file_type": "document",
+      "source_file": ".claude/services/primary-app.md",
+      "source_location": "L31",
+      "id": "services_primary_app_failure_modes",
+      "community": 3,
+      "norm_label": "failure modes"
+    },
+    {
+      "label": "Scaling Concerns",
+      "file_type": "document",
+      "source_file": ".claude/services/primary-app.md",
+      "source_location": "L34",
+      "id": "services_primary_app_scaling_concerns",
+      "community": 3,
+      "norm_label": "scaling concerns"
+    },
+    {
+      "label": "Operational Concerns",
+      "file_type": "document",
+      "source_file": ".claude/services/primary-app.md",
+      "source_location": "L38",
+      "id": "services_primary_app_operational_concerns",
+      "community": 3,
+      "norm_label": "operational concerns"
+    },
+    {
+      "label": "Important Source Files",
+      "file_type": "document",
+      "source_file": ".claude/services/primary-app.md",
+      "source_location": "L42",
+      "id": "services_primary_app_important_source_files",
+      "community": 3,
+      "norm_label": "important source files"
+    },
+    {
+      "label": "Dangerous Code Paths",
+      "file_type": "document",
+      "source_file": ".claude/services/primary-app.md",
+      "source_location": "L48",
+      "id": "services_primary_app_dangerous_code_paths",
+      "community": 3,
+      "norm_label": "dangerous code paths"
+    },
+    {
+      "label": "Testing Strategy",
+      "file_type": "document",
+      "source_file": ".claude/services/primary-app.md",
+      "source_location": "L51",
+      "id": "services_primary_app_testing_strategy",
+      "community": 3,
+      "norm_label": "testing strategy"
+    },
+    {
+      "label": "Known Technical Debt",
+      "file_type": "document",
+      "source_file": ".claude/services/primary-app.md",
+      "source_location": "L54",
+      "id": "services_primary_app_known_technical_debt",
+      "community": 3,
+      "norm_label": "known technical debt"
+    },
+    {
       "label": "This To-Do App is Created using React Js",
       "file_type": "document",
       "source_file": "README.md",
       "source_location": "L1",
-      "id": "to_do_app_reactjs_readme_this_to_do_app_is_created_using_react_js",
       "community": 6,
-      "norm_label": "this to-do app is created using react js"
+      "norm_label": "this to-do app is created using react js",
+      "id": "to_do_app_reactjs_readme_this_to_do_app_is_created_using_react_js"
     }
   ],
   "links": [
@@ -335,9 +1325,9 @@
       "source_file": "package.json",
       "source_location": "L2",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "package_json",
-      "target": "to_do_app_reactjs_package_name",
-      "confidence_score": 1.0
+      "target": "to_do_app_reactjs_package_name"
     },
     {
       "relation": "contains",
@@ -345,9 +1335,9 @@
       "source_file": "package.json",
       "source_location": "L3",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "package_json",
-      "target": "to_do_app_reactjs_package_version",
-      "confidence_score": 1.0
+      "target": "to_do_app_reactjs_package_version"
     },
     {
       "relation": "contains",
@@ -355,9 +1345,9 @@
       "source_file": "package.json",
       "source_location": "L4",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "package_json",
-      "target": "to_do_app_reactjs_package_private",
-      "confidence_score": 1.0
+      "target": "to_do_app_reactjs_package_private"
     },
     {
       "relation": "contains",
@@ -365,9 +1355,9 @@
       "source_file": "package.json",
       "source_location": "L5",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "package_json",
-      "target": "to_do_app_reactjs_package_dependencies",
-      "confidence_score": 1.0
+      "target": "to_do_app_reactjs_package_dependencies"
     },
     {
       "relation": "contains",
@@ -375,9 +1365,9 @@
       "source_file": "package.json",
       "source_location": "L12",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "package_json",
-      "target": "to_do_app_reactjs_package_scripts",
-      "confidence_score": 1.0
+      "target": "to_do_app_reactjs_package_scripts"
     },
     {
       "relation": "contains",
@@ -385,9 +1375,9 @@
       "source_file": "package.json",
       "source_location": "L6",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "to_do_app_reactjs_package_dependencies",
-      "target": "to_do_app_reactjs_package_dependencies_react",
-      "confidence_score": 1.0
+      "target": "to_do_app_reactjs_package_dependencies_react"
     },
     {
       "relation": "contains",
@@ -395,9 +1385,9 @@
       "source_file": "package.json",
       "source_location": "L7",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "to_do_app_reactjs_package_dependencies",
-      "target": "to_do_app_reactjs_package_dependencies_react_dom",
-      "confidence_score": 1.0
+      "target": "to_do_app_reactjs_package_dependencies_react_dom"
     },
     {
       "relation": "contains",
@@ -405,9 +1395,9 @@
       "source_file": "package.json",
       "source_location": "L8",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "to_do_app_reactjs_package_dependencies",
-      "target": "to_do_app_reactjs_package_dependencies_react_icons",
-      "confidence_score": 1.0
+      "target": "to_do_app_reactjs_package_dependencies_react_icons"
     },
     {
       "relation": "contains",
@@ -415,9 +1405,9 @@
       "source_file": "package.json",
       "source_location": "L9",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "to_do_app_reactjs_package_dependencies",
-      "target": "to_do_app_reactjs_package_dependencies_react_scripts",
-      "confidence_score": 1.0
+      "target": "to_do_app_reactjs_package_dependencies_react_scripts"
     },
     {
       "relation": "contains",
@@ -425,9 +1415,9 @@
       "source_file": "package.json",
       "source_location": "L10",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "to_do_app_reactjs_package_dependencies",
-      "target": "to_do_app_reactjs_package_dependencies_react_transition_group",
-      "confidence_score": 1.0
+      "target": "to_do_app_reactjs_package_dependencies_react_transition_group"
     },
     {
       "relation": "contains",
@@ -435,9 +1425,9 @@
       "source_file": "package.json",
       "source_location": "L13",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "to_do_app_reactjs_package_scripts",
-      "target": "to_do_app_reactjs_package_scripts_start",
-      "confidence_score": 1.0
+      "target": "to_do_app_reactjs_package_scripts_start"
     },
     {
       "relation": "contains",
@@ -445,9 +1435,9 @@
       "source_file": "package.json",
       "source_location": "L14",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "to_do_app_reactjs_package_scripts",
-      "target": "to_do_app_reactjs_package_scripts_build",
-      "confidence_score": 1.0
+      "target": "to_do_app_reactjs_package_scripts_build"
     },
     {
       "relation": "contains",
@@ -455,9 +1445,9 @@
       "source_file": "package.json",
       "source_location": "L15",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "to_do_app_reactjs_package_scripts",
-      "target": "to_do_app_reactjs_package_scripts_test",
-      "confidence_score": 1.0
+      "target": "to_do_app_reactjs_package_scripts_test"
     },
     {
       "relation": "contains",
@@ -465,9 +1455,9 @@
       "source_file": "package.json",
       "source_location": "L16",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "to_do_app_reactjs_package_scripts",
-      "target": "to_do_app_reactjs_package_scripts_eject",
-      "confidence_score": 1.0
+      "target": "to_do_app_reactjs_package_scripts_eject"
     },
     {
       "relation": "imports_from",
@@ -476,9 +1466,9 @@
       "source_file": "src/index.js",
       "source_location": "L3",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "src_index_js",
-      "target": "src_app_js",
-      "confidence_score": 1.0
+      "target": "src_app_js"
     },
     {
       "relation": "imports_from",
@@ -487,9 +1477,9 @@
       "source_file": "src/index.js",
       "source_location": "L4",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "src_index_js",
-      "target": "src_registerserviceworker_js",
-      "confidence_score": 1.0
+      "target": "src_registerserviceworker_js"
     },
     {
       "relation": "contains",
@@ -497,9 +1487,9 @@
       "source_file": "src/List.js",
       "source_location": "L4",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "src_list_js",
-      "target": "src_list_list",
-      "confidence_score": 1.0
+      "target": "src_list_list"
     },
     {
       "relation": "method",
@@ -507,9 +1497,9 @@
       "source_file": "src/List.js",
       "source_location": "L5",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "src_list_list",
-      "target": "src_list_list_removeitem",
-      "confidence_score": 1.0
+      "target": "src_list_list_removeitem"
     },
     {
       "relation": "method",
@@ -517,9 +1507,9 @@
       "source_file": "src/List.js",
       "source_location": "L9",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "src_list_list",
-      "target": "src_list_list_render",
-      "confidence_score": 1.0
+      "target": "src_list_list_render"
     },
     {
       "relation": "contains",
@@ -527,9 +1517,9 @@
       "source_file": "src/registerServiceWorker.js",
       "source_location": "L11",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "src_registerserviceworker_js",
-      "target": "src_registerserviceworker_islocalhost",
-      "confidence_score": 1.0
+      "target": "src_registerserviceworker_islocalhost"
     },
     {
       "relation": "contains",
@@ -537,9 +1527,9 @@
       "source_file": "src/registerServiceWorker.js",
       "source_location": "L21",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "src_registerserviceworker_js",
-      "target": "src_registerserviceworker_register",
-      "confidence_score": 1.0
+      "target": "src_registerserviceworker_register"
     },
     {
       "relation": "contains",
@@ -547,9 +1537,9 @@
       "source_file": "src/registerServiceWorker.js",
       "source_location": "L55",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "src_registerserviceworker_js",
-      "target": "src_registerserviceworker_registervalidsw",
-      "confidence_score": 1.0
+      "target": "src_registerserviceworker_registervalidsw"
     },
     {
       "relation": "contains",
@@ -557,9 +1547,9 @@
       "source_file": "src/registerServiceWorker.js",
       "source_location": "L84",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "src_registerserviceworker_js",
-      "target": "src_registerserviceworker_checkvalidserviceworker",
-      "confidence_score": 1.0
+      "target": "src_registerserviceworker_checkvalidserviceworker"
     },
     {
       "relation": "contains",
@@ -567,9 +1557,9 @@
       "source_file": "src/registerServiceWorker.js",
       "source_location": "L111",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "src_registerserviceworker_js",
-      "target": "src_registerserviceworker_unregister",
-      "confidence_score": 1.0
+      "target": "src_registerserviceworker_unregister"
     },
     {
       "relation": "calls",
@@ -578,9 +1568,9 @@
       "source_file": "src/registerServiceWorker.js",
       "source_location": "L56",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "src_registerserviceworker_registervalidsw",
-      "target": "src_registerserviceworker_register",
-      "confidence_score": 1.0
+      "target": "src_registerserviceworker_register"
     },
     {
       "relation": "contains",
@@ -588,9 +1578,9 @@
       "source_file": "src/App.js",
       "source_location": "L6",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "src_app_js",
-      "target": "src_app_app",
-      "confidence_score": 1.0
+      "target": "src_app_app"
     },
     {
       "relation": "contains",
@@ -598,9 +1588,9 @@
       "source_file": "src/App.js",
       "source_location": "L53",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "src_app_js",
-      "target": "src_app_list",
-      "confidence_score": 1.0
+      "target": "src_app_list"
     },
     {
       "relation": "method",
@@ -608,9 +1598,9 @@
       "source_file": "src/App.js",
       "source_location": "L7",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "src_app_app",
-      "target": "src_app_app_constructor",
-      "confidence_score": 1.0
+      "target": "src_app_app_constructor"
     },
     {
       "relation": "method",
@@ -618,9 +1608,9 @@
       "source_file": "src/App.js",
       "source_location": "L23",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "src_app_app",
-      "target": "src_app_app_removetodo",
-      "confidence_score": 1.0
+      "target": "src_app_app_removetodo"
     },
     {
       "relation": "method",
@@ -628,9 +1618,9 @@
       "source_file": "src/App.js",
       "source_location": "L33",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "src_app_app",
-      "target": "src_app_app_render",
-      "confidence_score": 1.0
+      "target": "src_app_app_render"
     },
     {
       "relation": "calls",
@@ -639,9 +1629,9 @@
       "source_file": "src/App.js",
       "source_location": "L55",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "src_app_list_removeitem",
-      "target": "src_app_app_removetodo",
-      "confidence_score": 1.0
+      "target": "src_app_app_removetodo"
     },
     {
       "relation": "method",
@@ -649,9 +1639,9 @@
       "source_file": "src/App.js",
       "source_location": "L54",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "src_app_list",
-      "target": "src_app_list_removeitem",
-      "confidence_score": 1.0
+      "target": "src_app_list_removeitem"
     },
     {
       "relation": "method",
@@ -659,9 +1649,9 @@
       "source_file": "src/App.js",
       "source_location": "L58",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "src_app_list",
-      "target": "src_app_list_render",
-      "confidence_score": 1.0
+      "target": "src_app_list_render"
     },
     {
       "relation": "contains",
@@ -670,9 +1660,940 @@
       "source_location": "L1",
       "weight": 1.0,
       "source": "readme_md",
-      "target": "to_do_app_reactjs_readme_this_to_do_app_is_created_using_react_js",
+      "target": "to_do_app_reactjs_readme_to_do_app_reactjs_archived",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "README.md",
+      "source_location": "L1",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "readme_md",
+      "target": "to_do_app_reactjs_readme_this_to_do_app_is_created_using_react_js"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "README.md",
+      "source_location": "L7",
+      "weight": 1.0,
+      "source": "to_do_app_reactjs_readme_to_do_app_reactjs_archived",
+      "target": "to_do_app_reactjs_readme_why_this_repo_exists",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "README.md",
+      "source_location": "L11",
+      "weight": 1.0,
+      "source": "to_do_app_reactjs_readme_to_do_app_reactjs_archived",
+      "target": "to_do_app_reactjs_readme_what_it_does",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "README.md",
+      "source_location": "L19",
+      "weight": 1.0,
+      "source": "to_do_app_reactjs_readme_to_do_app_reactjs_archived",
+      "target": "to_do_app_reactjs_readme_run_locally",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "README.md",
+      "source_location": "L26",
+      "weight": 1.0,
+      "source": "to_do_app_reactjs_readme_to_do_app_reactjs_archived",
+      "target": "to_do_app_reactjs_readme_key_files",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "README.md",
+      "source_location": "L33",
+      "weight": 1.0,
+      "source": "to_do_app_reactjs_readme_to_do_app_reactjs_archived",
+      "target": "to_do_app_reactjs_readme_current_status",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "README.md",
+      "source_location": "L39",
+      "weight": 1.0,
+      "source": "to_do_app_reactjs_readme_to_do_app_reactjs_archived",
+      "target": "to_do_app_reactjs_readme_resume_value",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "README.md",
+      "source_location": "L44",
+      "weight": 1.0,
+      "source": "to_do_app_reactjs_readme_to_do_app_reactjs_archived",
+      "target": "to_do_app_reactjs_readme_maintenance_note",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".claude/project_context.md",
+      "source_location": "L1",
+      "weight": 1.0,
+      "source": "claude_project_context_md",
+      "target": "claude_project_context_to_do_app_reactjs_project_context",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".claude/project_context.md",
+      "source_location": "L5",
+      "weight": 1.0,
+      "source": "claude_project_context_to_do_app_reactjs_project_context",
+      "target": "claude_project_context_business_purpose",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".claude/project_context.md",
+      "source_location": "L8",
+      "weight": 1.0,
+      "source": "claude_project_context_to_do_app_reactjs_project_context",
+      "target": "claude_project_context_system_overview",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".claude/project_context.md",
+      "source_location": "L11",
+      "weight": 1.0,
+      "source": "claude_project_context_to_do_app_reactjs_project_context",
+      "target": "claude_project_context_major_applications",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".claude/project_context.md",
+      "source_location": "L14",
+      "weight": 1.0,
+      "source": "claude_project_context_to_do_app_reactjs_project_context",
+      "target": "claude_project_context_environments",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".claude/project_context.md",
+      "source_location": "L17",
+      "weight": 1.0,
+      "source": "claude_project_context_to_do_app_reactjs_project_context",
+      "target": "claude_project_context_tech_stack",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".claude/project_context.md",
+      "source_location": "L23",
+      "weight": 1.0,
+      "source": "claude_project_context_to_do_app_reactjs_project_context",
+      "target": "claude_project_context_critical_dependencies",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".claude/project_context.md",
+      "source_location": "L30",
+      "weight": 1.0,
+      "source": "claude_project_context_to_do_app_reactjs_project_context",
+      "target": "claude_project_context_major_workflows",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".claude/project_context.md",
+      "source_location": "L37",
+      "weight": 1.0,
+      "source": "claude_project_context_to_do_app_reactjs_project_context",
+      "target": "claude_project_context_operational_constraints",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".claude/project_context.md",
+      "source_location": "L40",
+      "weight": 1.0,
+      "source": "claude_project_context_to_do_app_reactjs_project_context",
+      "target": "claude_project_context_scaling_constraints",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".claude/project_context.md",
+      "source_location": "L43",
+      "weight": 1.0,
+      "source": "claude_project_context_to_do_app_reactjs_project_context",
+      "target": "claude_project_context_deployment_model",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".claude/project_context.md",
+      "source_location": "L46",
+      "weight": 1.0,
+      "source": "claude_project_context_to_do_app_reactjs_project_context",
+      "target": "claude_project_context_important_apis",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".claude/project_context.md",
+      "source_location": "L49",
+      "weight": 1.0,
+      "source": "claude_project_context_to_do_app_reactjs_project_context",
+      "target": "claude_project_context_important_databases",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".claude/project_context.md",
+      "source_location": "L52",
+      "weight": 1.0,
+      "source": "claude_project_context_to_do_app_reactjs_project_context",
+      "target": "claude_project_context_important_queues_events",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".claude/project_context.md",
+      "source_location": "L55",
+      "weight": 1.0,
+      "source": "claude_project_context_to_do_app_reactjs_project_context",
+      "target": "claude_project_context_known_technical_debt",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".claude/project_context.md",
+      "source_location": "L58",
+      "weight": 1.0,
+      "source": "claude_project_context_to_do_app_reactjs_project_context",
+      "target": "claude_project_context_current_architecture_themes",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".claude/workflows.md",
+      "source_location": "L1",
+      "weight": 1.0,
+      "source": "claude_workflows_md",
+      "target": "claude_workflows_to_do_app_reactjs_workflows",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".claude/workflows.md",
+      "source_location": "L3",
+      "weight": 1.0,
+      "source": "claude_workflows_to_do_app_reactjs_workflows",
+      "target": "claude_workflows_local_development",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".claude/workflows.md",
+      "source_location": "L6",
+      "weight": 1.0,
+      "source": "claude_workflows_to_do_app_reactjs_workflows",
+      "target": "claude_workflows_testing",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".claude/workflows.md",
+      "source_location": "L9",
+      "weight": 1.0,
+      "source": "claude_workflows_to_do_app_reactjs_workflows",
+      "target": "claude_workflows_deployment",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".claude/workflows.md",
+      "source_location": "L12",
+      "weight": 1.0,
+      "source": "claude_workflows_to_do_app_reactjs_workflows",
+      "target": "claude_workflows_migrations",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".claude/workflows.md",
+      "source_location": "L15",
+      "weight": 1.0,
+      "source": "claude_workflows_to_do_app_reactjs_workflows",
+      "target": "claude_workflows_feature_rollout",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".claude/workflows.md",
+      "source_location": "L19",
+      "weight": 1.0,
+      "source": "claude_workflows_to_do_app_reactjs_workflows",
+      "target": "claude_workflows_incident_response",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".claude/workflows.md",
+      "source_location": "L24",
+      "weight": 1.0,
+      "source": "claude_workflows_to_do_app_reactjs_workflows",
+      "target": "claude_workflows_debugging",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".claude/workflows.md",
+      "source_location": "L29",
+      "weight": 1.0,
+      "source": "claude_workflows_to_do_app_reactjs_workflows",
+      "target": "claude_workflows_rollback",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".claude/workflows.md",
+      "source_location": "L34",
+      "weight": 1.0,
+      "source": "claude_workflows_to_do_app_reactjs_workflows",
+      "target": "claude_workflows_observability_investigation",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".claude/architecture.md",
+      "source_location": "L1",
+      "weight": 1.0,
+      "source": "claude_architecture_md",
+      "target": "claude_architecture_to_do_app_reactjs_architecture",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".claude/architecture.md",
+      "source_location": "L3",
+      "weight": 1.0,
+      "source": "claude_architecture_to_do_app_reactjs_architecture",
+      "target": "claude_architecture_end_to_end_request_flows",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".claude/architecture.md",
+      "source_location": "L6",
+      "weight": 1.0,
+      "source": "claude_architecture_to_do_app_reactjs_architecture",
+      "target": "claude_architecture_frontend_backend_interaction",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".claude/architecture.md",
+      "source_location": "L10",
+      "weight": 1.0,
+      "source": "claude_architecture_to_do_app_reactjs_architecture",
+      "target": "claude_architecture_service_boundaries",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".claude/architecture.md",
+      "source_location": "L13",
+      "weight": 1.0,
+      "source": "claude_architecture_to_do_app_reactjs_architecture",
+      "target": "claude_architecture_sync_vs_async_flows",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".claude/architecture.md",
+      "source_location": "L16",
+      "weight": 1.0,
+      "source": "claude_architecture_to_do_app_reactjs_architecture",
+      "target": "claude_architecture_event_driven_architecture",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".claude/architecture.md",
+      "source_location": "L19",
+      "weight": 1.0,
+      "source": "claude_architecture_to_do_app_reactjs_architecture",
+      "target": "claude_architecture_caching_layers",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".claude/architecture.md",
+      "source_location": "L22",
+      "weight": 1.0,
+      "source": "claude_architecture_to_do_app_reactjs_architecture",
+      "target": "claude_architecture_auth_flow",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".claude/architecture.md",
+      "source_location": "L25",
+      "weight": 1.0,
+      "source": "claude_architecture_to_do_app_reactjs_architecture",
+      "target": "claude_architecture_deployment_topology",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".claude/architecture.md",
+      "source_location": "L28",
+      "weight": 1.0,
+      "source": "claude_architecture_to_do_app_reactjs_architecture",
+      "target": "claude_architecture_scaling_behavior",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".claude/architecture.md",
+      "source_location": "L32",
+      "weight": 1.0,
+      "source": "claude_architecture_to_do_app_reactjs_architecture",
+      "target": "claude_architecture_resilience_mechanisms",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".claude/architecture.md",
+      "source_location": "L36",
+      "weight": 1.0,
+      "source": "claude_architecture_to_do_app_reactjs_architecture",
+      "target": "claude_architecture_failover_behavior",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".claude/architecture.md",
+      "source_location": "L39",
+      "weight": 1.0,
+      "source": "claude_architecture_to_do_app_reactjs_architecture",
+      "target": "claude_architecture_observability_architecture",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".claude/architecture.md",
+      "source_location": "L42",
+      "weight": 1.0,
+      "source": "claude_architecture_to_do_app_reactjs_architecture",
+      "target": "claude_architecture_retry_idempotency_patterns",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".claude/repository_navigation.md",
+      "source_location": "L1",
+      "weight": 1.0,
+      "source": "claude_repository_navigation_md",
+      "target": "claude_repository_navigation_top_level_modules",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".claude/repository_navigation.md",
+      "source_location": "L6",
+      "weight": 1.0,
+      "source": "claude_repository_navigation_md",
+      "target": "claude_repository_navigation_read_first",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".claude/repository_navigation.md",
+      "source_location": "L13",
+      "weight": 1.0,
+      "source": "claude_repository_navigation_md",
+      "target": "claude_repository_navigation_critical_entrypoints",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".claude/graph_relationships.md",
+      "source_location": "L1",
+      "weight": 1.0,
+      "source": "claude_graph_relationships_md",
+      "target": "claude_graph_relationships_to_do_app_reactjs_graph_relationships",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".claude/decision_log.md",
+      "source_location": "L1",
+      "weight": 1.0,
+      "source": "claude_decision_log_md",
+      "target": "claude_decision_log_to_do_app_reactjs_decision_log",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".claude/decision_log.md",
+      "source_location": "L3",
+      "weight": 1.0,
+      "source": "claude_decision_log_to_do_app_reactjs_decision_log",
+      "target": "claude_decision_log_graphify_first_repo_discovery",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".claude/decision_log.md",
+      "source_location": "L9",
+      "weight": 1.0,
+      "source": "claude_decision_log_to_do_app_reactjs_decision_log",
+      "target": "claude_decision_log_preserve_repo_separation",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".claude/known_pitfalls.md",
+      "source_location": "L1",
+      "weight": 1.0,
+      "source": "claude_known_pitfalls_md",
+      "target": "claude_known_pitfalls_to_do_app_reactjs_known_pitfalls",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".claude/onboarding.md",
+      "source_location": "L1",
+      "weight": 1.0,
+      "source": "claude_onboarding_md",
+      "target": "claude_onboarding_to_do_app_reactjs_onboarding",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".claude/onboarding.md",
+      "source_location": "L3",
+      "weight": 1.0,
+      "source": "claude_onboarding_to_do_app_reactjs_onboarding",
+      "target": "claude_onboarding_first_read",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".claude/onboarding.md",
+      "source_location": "L10",
+      "weight": 1.0,
+      "source": "claude_onboarding_to_do_app_reactjs_onboarding",
+      "target": "claude_onboarding_critical_entrypoints",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".claude/onboarding.md",
+      "source_location": "L16",
+      "weight": 1.0,
+      "source": "claude_onboarding_to_do_app_reactjs_onboarding",
+      "target": "claude_onboarding_module_map",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".claude/onboarding.md",
+      "source_location": "L21",
+      "weight": 1.0,
+      "source": "claude_onboarding_to_do_app_reactjs_onboarding",
+      "target": "claude_onboarding_how_to_start_reasoning",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".claude/onboarding.md",
+      "source_location": "L26",
+      "weight": 1.0,
+      "source": "claude_onboarding_to_do_app_reactjs_onboarding",
+      "target": "claude_onboarding_local_run_baseline",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".claude/coding_rules.md",
+      "source_location": "L1",
+      "weight": 1.0,
+      "source": "claude_coding_rules_md",
+      "target": "claude_coding_rules_to_do_app_reactjs_coding_rules",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".claude/coding_rules.md",
+      "source_location": "L3",
+      "weight": 1.0,
+      "source": "claude_coding_rules_to_do_app_reactjs_coding_rules",
+      "target": "claude_coding_rules_naming_structure",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".claude/coding_rules.md",
+      "source_location": "L7",
+      "weight": 1.0,
+      "source": "claude_coding_rules_to_do_app_reactjs_coding_rules",
+      "target": "claude_coding_rules_architecture_patterns",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".claude/coding_rules.md",
+      "source_location": "L12",
+      "weight": 1.0,
+      "source": "claude_coding_rules_to_do_app_reactjs_coding_rules",
+      "target": "claude_coding_rules_state_management",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".claude/coding_rules.md",
+      "source_location": "L15",
+      "weight": 1.0,
+      "source": "claude_coding_rules_to_do_app_reactjs_coding_rules",
+      "target": "claude_coding_rules_error_handling_logging",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".claude/coding_rules.md",
+      "source_location": "L20",
+      "weight": 1.0,
+      "source": "claude_coding_rules_to_do_app_reactjs_coding_rules",
+      "target": "claude_coding_rules_api_conventions",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".claude/coding_rules.md",
+      "source_location": "L24",
+      "weight": 1.0,
+      "source": "claude_coding_rules_to_do_app_reactjs_coding_rules",
+      "target": "claude_coding_rules_testing_conventions",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".claude/coding_rules.md",
+      "source_location": "L27",
+      "weight": 1.0,
+      "source": "claude_coding_rules_to_do_app_reactjs_coding_rules",
+      "target": "claude_coding_rules_typing_abstractions",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".claude/coding_rules.md",
+      "source_location": "L31",
+      "weight": 1.0,
+      "source": "claude_coding_rules_to_do_app_reactjs_coding_rules",
+      "target": "claude_coding_rules_database_migration_patterns",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".claude/system_prompt.md",
+      "source_location": "L1",
+      "weight": 1.0,
+      "source": "claude_system_prompt_md",
+      "target": "claude_system_prompt_to_do_app_reactjs_claude_system_prompt",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".claude/prompts/debug.md",
+      "source_location": "L1",
+      "weight": 1.0,
+      "source": "claude_prompts_debug_md",
+      "target": "prompts_debug_debug_prompt",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".claude/prompts/incident_response.md",
+      "source_location": "L1",
+      "weight": 1.0,
+      "source": "claude_prompts_incident_response_md",
+      "target": "prompts_incident_response_incident_response_prompt",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".claude/prompts/architecture_review.md",
+      "source_location": "L1",
+      "weight": 1.0,
+      "source": "claude_prompts_architecture_review_md",
+      "target": "prompts_architecture_review_architecture_review_prompt",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".claude/prompts/refactor.md",
+      "source_location": "L1",
+      "weight": 1.0,
+      "source": "claude_prompts_refactor_md",
+      "target": "prompts_refactor_refactor_prompt",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".claude/prompts/feature.md",
+      "source_location": "L1",
+      "weight": 1.0,
+      "source": "claude_prompts_feature_md",
+      "target": "prompts_feature_feature_prompt",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".claude/prompts/performance_analysis.md",
+      "source_location": "L1",
+      "weight": 1.0,
+      "source": "claude_prompts_performance_analysis_md",
+      "target": "prompts_performance_analysis_performance_analysis_prompt",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".claude/services/primary-app.md",
+      "source_location": "L1",
+      "weight": 1.0,
+      "source": "claude_services_primary_app_md",
+      "target": "services_primary_app_primary_app",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".claude/services/primary-app.md",
+      "source_location": "L3",
+      "weight": 1.0,
+      "source": "services_primary_app_primary_app",
+      "target": "services_primary_app_responsibility",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".claude/services/primary-app.md",
+      "source_location": "L6",
+      "weight": 1.0,
+      "source": "services_primary_app_primary_app",
+      "target": "services_primary_app_dependencies",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".claude/services/primary-app.md",
+      "source_location": "L12",
+      "weight": 1.0,
+      "source": "services_primary_app_primary_app",
+      "target": "services_primary_app_inbound_apis",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".claude/services/primary-app.md",
+      "source_location": "L15",
+      "weight": 1.0,
+      "source": "services_primary_app_primary_app",
+      "target": "services_primary_app_outbound_apis",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".claude/services/primary-app.md",
+      "source_location": "L18",
+      "weight": 1.0,
+      "source": "services_primary_app_primary_app",
+      "target": "services_primary_app_databases_used",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".claude/services/primary-app.md",
+      "source_location": "L21",
+      "weight": 1.0,
+      "source": "services_primary_app_primary_app",
+      "target": "services_primary_app_queues_topics",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".claude/services/primary-app.md",
+      "source_location": "L24",
+      "weight": 1.0,
+      "source": "services_primary_app_primary_app",
+      "target": "services_primary_app_critical_workflows",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".claude/services/primary-app.md",
+      "source_location": "L31",
+      "weight": 1.0,
+      "source": "services_primary_app_primary_app",
+      "target": "services_primary_app_failure_modes",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".claude/services/primary-app.md",
+      "source_location": "L34",
+      "weight": 1.0,
+      "source": "services_primary_app_primary_app",
+      "target": "services_primary_app_scaling_concerns",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".claude/services/primary-app.md",
+      "source_location": "L38",
+      "weight": 1.0,
+      "source": "services_primary_app_primary_app",
+      "target": "services_primary_app_operational_concerns",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".claude/services/primary-app.md",
+      "source_location": "L42",
+      "weight": 1.0,
+      "source": "services_primary_app_primary_app",
+      "target": "services_primary_app_important_source_files",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".claude/services/primary-app.md",
+      "source_location": "L48",
+      "weight": 1.0,
+      "source": "services_primary_app_primary_app",
+      "target": "services_primary_app_dangerous_code_paths",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".claude/services/primary-app.md",
+      "source_location": "L51",
+      "weight": 1.0,
+      "source": "services_primary_app_primary_app",
+      "target": "services_primary_app_testing_strategy",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".claude/services/primary-app.md",
+      "source_location": "L54",
+      "weight": 1.0,
+      "source": "services_primary_app_primary_app",
+      "target": "services_primary_app_known_technical_debt",
       "confidence_score": 1.0
     }
   ],
-  "hyperedges": []
+  "hyperedges": [],
+  "built_at_commit": "35e36882a5d671b28c3e4a5ce8564963db436272"
 }
